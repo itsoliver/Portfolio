@@ -22,3 +22,9 @@ html, body {
     color:black;
     background-color: white;
  }
+ #home {
+    background:url(https://bit.ly/2TNaWnQ)no-repeat center center/cover;
+    height: 50%;
+    width: 100%;
+    
+}

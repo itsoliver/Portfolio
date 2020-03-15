@@ -28,3 +28,12 @@ html, body {
     width: 100%;
     
 }
+#home img{
+    border-radius:50%;
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+    display: block;
+    padding: 2%;
+}
+

@@ -18,3 +18,7 @@ html, body {
     text-decoration:none;
 }
 
+.nav-top a:hover{
+    color:black;
+    background-color: white;
+ }

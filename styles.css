@@ -36,4 +36,9 @@ html, body {
     display: block;
     padding: 2%;
 }
+#home h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
 

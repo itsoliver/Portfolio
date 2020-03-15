@@ -52,4 +52,13 @@ html, body {
 #about img{
     border-radius: 50%;
 }
+#about h2,p{
+    text-align: center;
+}
+#about h2{
+    font-size: 30px;
+}
+#about p{
+    font-size: 30px;
+}
 

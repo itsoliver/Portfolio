@@ -131,7 +131,15 @@ input[type=text], select, textarea {
     display: table;
     clear: both;
   }
-
+  #footer {
+    width: 100%;
+     background-color:blue;
+     color: white;
+     text-align: center;
+     font-size: 30px;
+     padding: 10px;
+  }
+ 
  
   
 

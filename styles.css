@@ -61,4 +61,22 @@ html, body {
 #about p{
     font-size: 30px;
 }
+#projects img{
+    border-radius: 150px;
+    height: 300px;
+    width: 300px;
+}
+#projects h3{
+    font-size: 50px;
+}
+
+#projects{
+    border-top: 50%;
+    text-align: center;
+    justify-content: center
+
+}
+#projects p{
+    font-size: 40px;
+}
 

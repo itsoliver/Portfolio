@@ -10,3 +10,11 @@ html, body {
     justify-content: center;
 
 }
+.nav-top a {
+    margin: 10px;
+    color:whitesmoke;
+    font-size: 28px;
+    padding:5px;
+    text-decoration:none;
+}
+

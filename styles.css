@@ -42,3 +42,11 @@ html, body {
     color: white;
 }
 
+#home  p{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: 10px;
+    color:white;
+}
+

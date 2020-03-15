@@ -49,4 +49,7 @@ html, body {
     font-size: 10px;
     color:white;
 }
+#about img{
+    border-radius: 50%;
+}
 
